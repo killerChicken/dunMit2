@@ -1,4 +1,4 @@
-colision = false;
+colision = true;
 
 //Creacion de Maquina de estados
 enum estadosEnem{
